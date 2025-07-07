@@ -1,4 +1,4 @@
-# Spindle Vibration Anomaly Detection (Software Only Version)
+# Spindle Vibration Anomaly Detection
 
 ## Project Overview
 
