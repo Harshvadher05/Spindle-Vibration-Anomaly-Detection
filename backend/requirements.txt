@@ -1,6 +1,6 @@
 numpy
 pandas
 streamlit
-tensorflow
+tensorflow==2.12.0
 scikit-learn
 joblib
